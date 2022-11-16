@@ -1,6 +1,14 @@
 #include <stdio.h>
-void reed_ekidan2() {
+
+
+
+void sona_dshib2() {
   printf("Diya Shibu and Prince Sonani\n");
+  printf("We learned that git and GitHub are amazing, powerful tools! Kinda\n");
+}
+ 
+void reed_ekidan2() {
+  printf("Dale Reed and Ellen Kidaneni\n");
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
